@@ -1,6 +1,6 @@
 {
 	"docs"      : ["posts"],
-    "template"  : "default",
+    "template"  : "tactile",
     "domain_alias" :  ["blog.liuyuetong.com"],
     "perpage"   : 10,
     "order"  : "number",
