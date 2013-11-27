@@ -7,3 +7,5 @@
 - 让你专注于文字而不是排版；
 - Markdown 的标记语法有极好的可读性；
 - 在 Markdown 中，你依然可以使用 html 标记；
+
+about me ![my info](../images/info.png)
